@@ -22,7 +22,7 @@ h1 {
 }
 
 .pstyle {
-    font-size: 16px;
+    /* font-size: ; */
     line-height: 26px;
     color: #1F3F68;
 }
@@ -40,7 +40,6 @@ h1 {
 
 .h3 {
     font-size: 36px;
-    text-align: center;
 }
 
 .h4 {
@@ -78,4 +77,101 @@ h1 {
     text-align: center;
     color: #050505;
     text-transform: uppercase
+}
+
+.top {
+    height: 700px;
+    border: 3px solid rgba(117, 7, 7, 0.919);
+}
+
+.top__content {
+    height: 694px;
+    margin: 0px 150px;
+    border: 3px solid rgba(144, 0, 255, 0.842);
+}
+
+.menu {
+    height: 20px;
+    padding: 5px 20px;
+    margin: 20px 0px 0px 0px;
+    border: 3px solid green;
+}
+
+.top__info {
+    width: 400px;
+    padding: 0px 30px 30px 0px;
+    border: 3px solid rgb(4, 226, 246);
+    margin: 100px 0px 0px 0px;
+}
+
+.Our__advantages {
+    margin: 20px 153px;
+    height: 520px;
+    border: 3px solid rgb(99, 5, 200);
+}
+
+.detail__advantages {
+    margin: 0px 0px 20px 0px;
+    border: 3px solid green;
+    padding: 20px 0px 0px 0px;
+}
+
+.benefits {
+    height: 300px;
+    width: 200px;
+    padding: 20px;
+    border: 2px solid rgb(240, 8, 232);
+    margin: 0px 30px 20px 0px;
+}
+
+.our_fin {
+    text-align: center;
+    border: 3px solid #f20505;
+    margin: 5px 153px;
+    height: 100px;
+    color: #050505;
+    padding: 5px;
+}
+
+.lover {
+    margin: 50px 0px;
+    height: 721px;
+    border: 3px solid rgba(244, 10, 10, 0.919);
+}
+
+.lover_content {
+    height: 270px;
+    margin: 0px 150px 5px;
+    border: 3px solid rgba(231, 239, 179, 0.842);
+}
+
+.lover_info {
+    width: 400px;
+    padding: 0px 30px 30px 0px;
+    border: 3px solid rgb(243, 163, 250);
+    margin: 40px 0px 0px 0px;
+}
+
+.hr {
+    margin: 0px 150px;
+}
+
+.lover_contact {
+    height: 120px;
+    margin: 0px 150px;
+    border: 3px solid rgba(231, 239, 179, 0.842);
+    padding: 10px 0px;
+}
+
+.lover_rights {
+    height: 50px;
+    margin: 25px 0px 0px 0px;
+    border: 3px solid green;
+}
+
+table.iksweb {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    height: auto;
 }
