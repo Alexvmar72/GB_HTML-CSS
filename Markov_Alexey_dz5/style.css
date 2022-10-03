@@ -1,0 +1,227 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-family: sans-serif
+    }
+
+    p {
+        color: lightcoral;
+    }
+
+    h1 {
+        background-color: darkgray;
+        width: 510px;
+    }
+
+    .border {
+        border: 1px solid black;
+        color: #070706;
+    }
+
+    .pstyle {
+        line-height: 26px;
+        color: #1F3F68;
+        width: 325px;
+    }
+
+    .pstyle_1 {
+        line-height: 26px;
+        color: #1F3F68;
+        width: 495px;
+    }
+
+    .pstyle_con {
+        line-height: 26px;
+        color: #1F3F68;
+        text-align: center
+    }
+
+    .first {
+        width: 425;
+    }
+
+    .h1 {
+        font-size: 64px;
+        color: #1F3F68;
+    }
+
+    .conh2 {
+        font-weight: 500;
+        font-size: 44px;
+        text-align: center;
+    }
+
+    .h3 {
+        font-size: 36px;
+        width: 340px;
+    }
+
+    .h4 {
+        font-size: 20px;
+        line-height: 30px;
+        color: #1F3F68;
+    }
+
+    .inputarea {
+        border: 1px solid #356EAD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        opacity: 0.4;
+    }
+
+    .submit {
+        background: #5A98D0;
+        box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+        border-radius: 10px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+        text-transform: uppercase;
+    }
+
+    .reset {
+        background: #f20505;
+        box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+        border-radius: 10px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #050505;
+        text-transform: uppercase
+    }
+
+    .container {
+        width: 1140px;
+        margin: 0 auto;
+    }
+
+    .top {
+        height: 700px;
+        border: 3px solid rgba(117, 7, 7, 0.919);
+    }
+
+    .top__content {
+        height: 694px;
+        margin: 0px 150px;
+        border: 3px solid rgba(144, 0, 255, 0.842);
+    }
+
+    .menu {
+        display: flex;
+        justify-content: space-between;
+        height: 20px;
+        padding: 5px 20px;
+        margin: 20px 0px 0px 0px;
+        border: 3px solid green;
+    }
+
+    .top__info {
+        width: 510px;
+        padding: 0px 30px 30px 0px;
+        border: 3px solid rgb(4, 226, 246);
+        margin: 100px 0px 0px 0px;
+    }
+
+    .Our__advantages {
+        margin: 20px 153px;
+        height: 520px;
+        border: 3px solid rgb(99, 5, 200);
+    }
+
+    .detail__advantages {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 20px;
+        border: 3px solid green;
+        padding: 20px 0px 0px 0px;
+    }
+
+    .benefits {
+        height: 300px;
+        width: 359px;
+        padding: 20px;
+        border: 2px solid rgb(240, 8, 232);
+        margin: 0px 0px 20px 0px;
+    }
+
+    .our_fin {
+        text-align: center;
+        border: 3px solid #f20505;
+        margin: 5px 153px;
+        height: 100px;
+        color: #050505;
+        padding: 5px;
+    }
+
+    .footer {
+        margin: 50px 0px;
+        height: 721px;
+        border: 3px solid rgba(244, 10, 10, 0.919);
+    }
+
+    .lover_content {
+        height: 270px;
+        margin: 0px 150px 5px;
+        border: 3px solid rgba(231, 239, 179, 0.842);
+    }
+
+    .lover_info {
+        width: 450px;
+        padding: 0px 30px 30px 0px;
+        border: 3px solid rgb(243, 163, 250);
+        margin: 40px 0px 0px 0px;
+    }
+
+    .hr {
+        margin: 0px 150px;
+    }
+
+    .lover_contact {
+        height: 120px;
+        margin: 0px 150px;
+        border: 3px solid rgba(231, 239, 179, 0.842);
+        padding: 10px 0px;
+    }
+
+    .lover_rights {
+        height: 50px;
+        margin: 25px 0px 0px 0px;
+        border: 3px solid green;
+    }
+
+    .iksweb {
+        list-style-type: none;
+        display: flex;
+        justify-content: space-between;
+        color: solid #000;
+    }
+
+    .head_con {
+        margin: 30px 0px;
+        height: 180px;
+        padding-top: 50px;
+        background-color: rgb(133, 172, 233);
+    }
+
+    .communication {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 100px;
+        margin-bottom: 70px;
+        height: 600px;
+    }
+
+    .left_block {
+        width: 350px;
+    }
+
+    .right_block {
+        position: relative;
+        width: 350;
+    }
